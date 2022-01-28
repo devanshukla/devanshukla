@@ -34,5 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;                                                                                                                                                 
   </div>
- :fire: My Stats :<br>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukla&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)                                                                       
+ 
+### 🔥 &nbsp; My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukla&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+           
