@@ -1,3 +1,4 @@
+<section align="center">
 <div id="header" align="center"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/devanshu-shukla-b424841b3">
@@ -24,8 +25,8 @@
 🏅5🌟 at HACKERRANK and 2🌟 at CC.<br>
 <br><br></div>
 <div align="center">
-:hammer_and_wrench: Languages and Tools :
-<br>
+:hammer_and_wrench: <b>Languages and Tools<b> :
+<br><br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -34,6 +35,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;                                                                                                                                                 
   </div>
- 
-### 🔥 &nbsp; My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukla&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-           
+                                                                                                    
+### 🔥 &nbsp; <b>My Stats <b>:<hr> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devanshukla&theme=dark&background=000000)](https://git.io/streak-stats)  <br>  <hr>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshukla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+          
