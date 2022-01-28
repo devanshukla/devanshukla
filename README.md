@@ -15,11 +15,22 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
+<div align="center">
 :man_technologist: <b>About Me</b> :
 <br><br>🧑🏼‍🎓::Student pursuing B.tech with Information Technology!! <br><br>
-•Good at problem Solving.<br>
-•Python Developer.<br>
-•Frontend Webdeveloper with little bit knowledge of backend as well.<br>
-•5🌟 at HACKERRANK and 2🌟 at CC.<br>
-<br><br>
+📝Good at problem Solving.<br>
+🪱Python Developer.<br>
+📃Frontend Webdeveloper with little bit knowledge of backend as well.<br>
+🏅5🌟 at HACKERRANK and 2🌟 at CC.<br>
+<br><br></div>
+<div align="center">
 :hammer_and_wrench: Languages and Tools :
+<br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
+  </div>
+ 
