@@ -15,3 +15,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
+:man_technologist: <b>About Me</b> :
+<br><br>🧑🏼‍🎓::Student pursuing B.tech with Information Technology!! <br><br>
+•Good at problem Solving.<br>
+•Python Developer.<br>
+•Frontend Webdeveloper with little bit knowledge of backend as well.<br>
+•5🌟 at HACKERRANK and 2🌟 at CC.<br>
+<br><br>
+:hammer_and_wrench: Languages and Tools :
