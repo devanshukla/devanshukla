@@ -22,7 +22,7 @@
 📝Good at problem Solving.<br>
 🪱Python Developer.<br>
 📃Frontend Webdeveloper with little bit knowledge of backend as well.<br>
-🏅5🌟 at HACKERRANK and 2🌟 at CC.<br>
+🏅5🌟 at HACKERRANK and 3🌟 at CC.<br>
 <br><br></div>
 <div align="center">
 :hammer_and_wrench: <b>Languages and Tools<b> :
